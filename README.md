@@ -92,7 +92,7 @@ atptOfcdcConctUrl : 적합한 도 코드가 들어간 도메인입니다. (= 지
 
 ```
 {   
-  "orgcode":"학교 코드",  
+  "orgCode":"학교 코드",  
   "name":"암호화된 이름",  
   "birthday":"암호화된 생년월일(6자리 형식)",
   "loginType":"school",
